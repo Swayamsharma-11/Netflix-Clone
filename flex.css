@@ -1,0 +1,30 @@
+.box{
+    display: flex;
+    border-color: black;
+    border-style: solid;
+    justify-content: space-around;
+
+}
+
+.card{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+}
+
+.c-1{
+    background-color: pink;
+}
+.c-2{
+    background-color: orange;
+}
+.c-3{
+    background-color: red;
+}
+.c-4{
+    background-color: blue;
+}
+.c-5{
+    background-color: rgb(198, 111, 6);
+}
